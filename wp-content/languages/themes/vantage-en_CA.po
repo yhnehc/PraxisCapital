@@ -1,0 +1,1640 @@
+# Translation of Vantage in English (Canada)
+# This file is distributed under the same license as the Vantage package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-01-03 13:57:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Vantage\n"
+
+#. Theme Name of the plugin/theme
+msgid "Vantage"
+msgstr "Vantage"
+
+#. Description of the plugin/theme
+msgid "Vantage is a flexible multipurpose theme. Its strength lies in its tight integration with some powerful plugins like Page Builder for responsive page layouts, MetaSlider for big beautiful sliders and WooCommerce to help you sell online. Vantage is fully responsive and retina ready. Use it to start a business site, portfolio or online store. We offer free and premium support on our support <a href=\"http://siteorigin.com/thread/\">forums</a> (http://siteorigin.com/thread/)."
+msgstr "Vantage is a flexible multipurpose theme. Its strength lies in its tight integration with some powerful plugins like Page Builder for responsive page layouts, MetaSlider for big beautiful sliders and WooCommerce to help you sell online. Vantage is fully responsive and retina ready. Use it to start a business site, portfolio or online store. We offer free and premium support on our support <a href=\"http://siteorigin.com/thread/\">forums</a> (http://siteorigin.com/thread/)."
+
+#: inc/settings.php:323
+msgid "Continue reading"
+msgstr "Continue reading "
+
+#: inc/template-tags.php:169
+msgid "Posted on %s"
+msgstr "Posted on %s"
+
+#: inc/settings.php:236
+msgid "Read More Text"
+msgstr "Read More Text"
+
+#: inc/settings.php:228
+msgid "Show the post tags below the single post."
+msgstr "Show the post tags below the single post."
+
+#: inc/settings.php:237
+msgid "The link displayed when post content is split using the \"more\" quicktag."
+msgstr "The link displayed when post content is split using the \"more\" quicktag."
+
+#: inc/template-tags.php:170
+msgid "<span class=\"byline\"> by %s</span>"
+msgstr "<span class=\"byline\"> by %s</span>"
+
+#: functions.php:217
+msgid "Shop"
+msgstr "Shop"
+
+#: inc/settings.php:221
+msgid "Post Categories"
+msgstr "Post Categories"
+
+#: inc/settings.php:95
+msgid "Force Page Builder Styles Full Width"
+msgstr "Force Page Builder Styles Full Width"
+
+#: inc/settings.php:96
+msgid "Force Page Builder rows with styles to be full width. Only necessary for legacy reasons."
+msgstr "Force Page Builder rows with styles to be full width. Only necessary for legacy reasons."
+
+#: inc/settings.php:112
+msgid "Responsive Menu Search"
+msgstr "Responsive Menu Search"
+
+#: inc/settings.php:113
+msgid "Enable search in the responsive menu."
+msgstr "Enable search in the responsive menu."
+
+#: inc/settings.php:171
+msgid "Choose the layout to be used on blog and archive pages."
+msgstr "Choose the layout to be used on blog and archive pages."
+
+#: inc/settings.php:193
+msgid "Size of the featured image in the blog post archives when using default blog layout."
+msgstr "Size of the featured image in the blog post archives when using default blog layout."
+
+#: inc/settings.php:203
+msgid "Show the post metadata under the post title."
+msgstr "Show the post metadata under the post title."
+
+#: inc/settings.php:208
+msgid "Show the post date under the post title."
+msgstr "Show the post date under the post title."
+
+#: inc/settings.php:213
+msgid "Show the post author under the post title."
+msgstr "Show the post author under the post title."
+
+#: inc/settings.php:216
+msgid "Post Comment Count"
+msgstr "Post Comment Count"
+
+#: inc/settings.php:218
+msgid "Show the number of comments under the post title."
+msgstr "Show the number of comments under the post title."
+
+#: inc/settings.php:223
+msgid "Show the post categories below the single post."
+msgstr "Show the post categories below the single post."
+
+#: inc/settings.php:226
+msgid "Post Tags"
+msgstr "Post Tags"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "Full Width Page"
+
+#: tour/tour.php:69
+msgid "Additional Settings"
+msgstr "Additional Settings"
+
+#: tour/tour.php:14
+msgid "The first step to making your site uniquely your own is to upload your custom logo. Choose a logo image below, and it will replace the plain-text site title. Any size will work, but we recommend that you use a smaller version of your logo."
+msgstr "The first step to making your site uniquely your own is to upload your custom logo. Choose a logo image below, and it will replace the plain-text site title. Any size will work, but we recommend that you use a smaller version of your logo."
+
+#: tour/tour.php:20
+msgid "Upload Your Retina Logo"
+msgstr "Upload Your Retina Logo"
+
+#: tour/tour.php:21
+msgid "A retina logo is a double-sized version of your standard logo. Vantage displays this version of your logo to users with high pixel density displays. Currently, these are most common on mobile devices, but they are starting to infiltrate desktop devices too."
+msgstr "A retina logo is a double-sized version of your standard logo. Vantage displays this version of your logo to users with high pixel density displays. Currently, these are most common on mobile devices, but they are starting to infiltrate desktop devices too."
+
+#: tour/tour.php:27
+msgid "Choose a Layout"
+msgstr "Choose a Layout"
+
+#: tour/tour.php:28
+msgid "Vantage supports two different layouts: boxed and full-width. Full-width is the default setting, but it is possible that boxed will give you a look you prefer. Boxed also gives you access to the custom background feature."
+msgstr "Vantage supports two different layouts: boxed and full-width. Full-width is the default setting, but it is possible that boxed will give you a look you prefer. Boxed also gives you access to the custom background feature."
+
+#: tour/tour.php:34
+msgid "Change the Header Text"
+msgstr "Change the Header Text"
+
+#: tour/tour.php:35
+msgid "The header text, which by default reads \"Call Me, Maybe?\" is a great place to add your site slogan or contact details. You can also overwrite this area entirely by adding widgets to the header widget area."
+msgstr "The header text, which by default reads \"Call Me, Maybe?\" is a great place to add your site slogan or contact details. You can also overwrite this area entirely by adding widgets to the header widget area."
+
+#: tour/tour.php:41
+msgid "Change the Slider"
+msgstr "Change the Slider"
+
+#: tour/tour.php:42
+msgid "The home page slider is a great place to show off your images or branding message. You'll need to install Meta Slider to create any new sliders. Once you do, the sliders will show up in this drop down list. For now, you can just disable the default slider until you create your own."
+msgstr "The home page slider is a great place to show off your images or branding message. You'll need to install Meta Slider to create any new sliders. Once you do, the sliders will show up in this drop down list. For now, you can just disable the default slider until you create your own."
+
+#: tour/tour.php:51
+msgid "Page Builder is the easiest way to create a site that makes you proud. Navigate to Appearance > Home Page in your WordPress admin to install it. After you've installed it, you will be able to create columnized pages using your widgets."
+msgstr "Page Builder is the easiest way to create a site that makes you proud. Navigate to Appearance > Home Page in your WordPress admin to install it. After you've installed it, you will be able to create columnized pages using your widgets."
+
+#: tour/tour.php:62
+msgid "Enable Post Sharing"
+msgstr "Enable Post Sharing"
+
+#: tour/tour.php:63
+msgid "This setting toggles a social sharing box that appears below your blog posts. This box lets your users quickly share your content on Facebook, Twitter, and Google Plus."
+msgstr "This setting toggles a social sharing box that appears below your blog posts. This box lets your users quickly share your content on Facebook, Twitter, and Google Plus."
+
+#: tour/tour.php:70
+msgid "There are a lot of additional settings that we haven't covered in this brief tour. Navigate to Appearance > Theme Settings at any time to take a look. You'll be amazed at what you can accomplish with a few clicks."
+msgstr "There are a lot of additional settings that we haven't covered in this brief tour. Navigate to Appearance > Theme Settings at any time to take a look. You'll be amazed at what you can accomplish with a few clicks."
+
+#: tour/tour.php:77
+msgid "Check Out Vantage Premium"
+msgstr "Check Out Vantage Premium"
+
+#: tour/tour.php:78
+msgid "You may have noticed that some settings and features are only available in Vantage Premium. This is a cost-effective upgrade that gives you access to a lot of bonus features. Take a look to see if this is something you might find useful."
+msgstr "You may have noticed that some settings and features are only available in Vantage Premium. This is a cost-effective upgrade that gives you access to a lot of bonus features. Take a look to see if this is something you might find useful."
+
+#: tour/tour.php:81
+msgid "More About Vantage Premium"
+msgstr "More About Vantage Premium"
+
+#: upgrade/upgrade.php:4
+msgid "Upgrade To Vantage Premium"
+msgstr "Upgrade To Vantage Premium"
+
+#: upgrade/upgrade.php:5
+msgid "If you've enjoyed using Vantage, you're going to love Vantage Premium. It's a robust upgrade to Vantage that gives you some useful features. You choose the price, so you can decide what it's worth to give your site a professional edge."
+msgstr "If you've enjoyed using Vantage, you're going to love Vantage Premium. It's a robust upgrade to Vantage that gives you some useful features. You choose the price, so you can decide what it's worth to give your site a professional edge."
+
+#: upgrade/upgrade.php:15
+msgid "Need help setting up Vantage? Upgrading to Vantage Premium gives you prioritized forum support and email support if you need it. We have a growing support team ready to help you with your questions."
+msgstr "Need help setting up Vantage? Upgrading to Vantage Premium gives you prioritized forum support and email support if you need it. We have a growing support team ready to help you with your questions."
+
+#: upgrade/upgrade.php:19
+msgid "Name The Price"
+msgstr "Name The Price"
+
+#: upgrade/upgrade.php:20
+msgid "You can choose exactly how much you pay for Vantage Premium. Pay what ever you think the features are worth to you. Regardless, you're supporting the continued development of Vantage."
+msgstr "You can choose exactly how much you pay for Vantage Premium. Pay what ever you think the features are worth to you. Regardless, you're supporting the continued development of Vantage."
+
+#: upgrade/upgrade.php:24
+msgid "Responsive Features"
+msgstr "Responsive Features"
+
+#: upgrade/upgrade.php:25
+msgid "The final puzzle pieces in making Vantage fully responsive. Vantage Premium has footer widgets that collapse below each other on small screen devices. Its menu collapses into a single navigate button which activates an intuitive nested menu system and site search."
+msgstr "The final puzzle pieces in making Vantage fully responsive. Vantage Premium has footer widgets that collapse below each other on small screen devices. Its menu collapses into a single navigate button which activates an intuitive nested menu system and site search."
+
+#: upgrade/upgrade.php:30
+msgid "Remove Attribution Links"
+msgstr "Remove Attribution Links"
+
+#: upgrade/upgrade.php:31
+msgid "Vantage premium gives you the option to easily remove the \"Powered by WordPress, Theme by SiteOrigin\" text from your footer. "
+msgstr "Vantage premium gives you the option to easily remove the \"Powered by WordPress, Theme by SiteOrigin\" text from your footer. "
+
+#: upgrade/upgrade.php:37
+msgid "No one wants a fuzzy logo. Vantage Premium lets you upload a second, double-size logo that's only displayed to users with retina screens."
+msgstr "No one wants a fuzzy logo. Vantage Premium lets you upload a second, double-size logo that's only displayed to users with retina screens."
+
+#: upgrade/upgrade.php:42
+msgid "Customizer Integration"
+msgstr "Customizer Integration"
+
+#: upgrade/upgrade.php:43
+msgid "Make Vantage your own with customizer integration. Change fonts, colors and more all using the live-updating WordPress customizer."
+msgstr "Make Vantage your own with customizer integration. Change fonts, colors and more all using the live-updating WordPress customizer."
+
+#: upgrade/upgrade.php:48
+msgid "Page Builder Element Styles"
+msgstr "Page Builder Element Styles"
+
+#: upgrade/upgrade.php:49
+msgid "Vantage Premium has additional styles for the Page Builder elements button and call to action. Give your site a unique look and feel with loads of colour variations."
+msgstr "Vantage Premium has additional styles for the Page Builder elements button and call to action. Give your site a unique look and feel with loads of colour variations."
+
+#: upgrade/upgrade.php:54
+msgid "Enhanced Social Media Widget"
+msgstr "Enhanced Social Media Widget"
+
+#: upgrade/upgrade.php:55
+msgid "Additional social networks and sizes (small and large) for the social media widget. Networks include LinkedIn, Dribbble, Flickr, Instagram, Pinterest, Skype, YouTube, GitHub and Vimeo. With more coming as they're requested."
+msgstr "Additional social networks and sizes (small and large) for the social media widget. Networks include LinkedIn, Dribbble, Flickr, Instagram, Pinterest, Skype, YouTube, GitHub and Vimeo. With more coming as they're requested."
+
+#: upgrade/upgrade.php:61
+msgid "Want to keep the conversation flowing? Ajax comments means your visitors can comment without reloading your page. So commenting wont interrupt a video or lose their position in one of your galleries."
+msgstr "Want to keep the conversation flowing? Ajax comments means your visitors can comment without reloading your page. So commenting wont interrupt a video or lose their position in one of your galleries."
+
+#: upgrade/upgrade.php:66
+msgid "Add post sharing icons to the bottom of every post on your blog. It's about time to go viral."
+msgstr "Add post sharing icons to the bottom of every post on your blog. It's about time to go viral."
+
+#: upgrade/upgrade.php:71
+msgid "CSS Editor"
+msgstr "CSS Editor"
+
+#: upgrade/upgrade.php:72
+msgid "A simple CSS editor that lets you easily add code that changes the look of Vantage. You can count on our support staff to help you with CSS snippets to get the look you're after. Best of all, your changes will persist across updates."
+msgstr "A simple CSS editor that lets you easily add code that changes the look of Vantage. You can count on our support staff to help you with CSS snippets to get the look you're after. Best of all, your changes will persist across updates."
+
+#: upgrade/upgrade.php:76
+msgid "Continued Updates"
+msgstr "Continued Updates"
+
+#: upgrade/upgrade.php:77
+msgid "You'll help support the continued development of Vantage - ensuring it works with future versions of WordPress for years to come."
+msgstr "You'll help support the continued development of Vantage - ensuring it works with future versions of WordPress for years to come."
+
+#: upgrade/upgrade.php:84
+msgid "Vantage is simple and clean. The user interface is easy to use. Combined with the developers Page Builder plugin makes it a powerful theme with great support."
+msgstr "Vantage is simple and clean. The user interface is easy to use. Combined with the developers Page Builder plugin makes it a powerful theme with great support."
+
+#: upgrade/upgrade.php:89
+msgid "Clean, simple and powerful. Like other themes from SiteOrigin."
+msgstr "Clean, simple and powerful. Like other themes from SiteOrigin."
+
+#: upgrade/upgrade.php:94
+msgid "Combined Vantage and Page builder are now one of the best combinations to have a premium WordPress theme."
+msgstr "Combined Vantage and Page builder are now one of the best combinations to have a premium WordPress theme."
+
+#: upgrade/upgrade.php:106
+msgid "Additional styles are available in <a href=\"%s\" target=\"_blank\">Vantage Premium</a>."
+msgstr "Additional styles are available in <a href=\"%s\" target=\"_blank\">Vantage Premium</a>."
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Home"
+msgstr "Page Builder Home"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page, No Title"
+msgstr "Full Width Page, No Title"
+
+#: slider/demo.php:6 slider/demo.php:9 slider/demo.php:14 slider/demo.php:16
+msgid "Demo Slide"
+msgstr "Demo Slide"
+
+#: tour/tour.php:7
+msgid "Welcome to Vantage"
+msgstr "Welcome to Vantage"
+
+#: tour/tour.php:8
+msgid "Vantage is a powerful, multipurpose theme. This quick tour will guide you through some of the basic setup and features."
+msgstr "Vantage is a powerful, multipurpose theme. This quick tour will guide you through some of the basic setup and features."
+
+#: tour/tour.php:13
+msgid "Upload Your Logo"
+msgstr "Upload Your Logo"
+
+#: searchform.php:12
+msgid "Search"
+msgstr "Search"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: parts/footer.php:18
+msgid "A <a href=\"%s\">SiteOrigin</a> Theme"
+msgstr "A <a href=\"%s\">SiteOrigin</a> Theme"
+
+#: no-results.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: no-results.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: no-results.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: no-results.php:15
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: loops/loop-carousel.php:25
+msgid "Post"
+msgstr "Post"
+
+#: inc/widgets.php:390
+msgid "Post "
+msgstr "Post"
+
+#: inc/widgets.php:349
+msgid "Previous"
+msgstr "Previous"
+
+#: inc/widgets.php:348
+msgid "Next"
+msgstr "Next"
+
+#: inc/widgets.php:312
+msgid "Open in New Window"
+msgstr "Open in New Window"
+
+#: inc/widgets.php:320
+msgid "Get additional social and professional network icons and sizes in <a href=\"%s\" target=\"_blank\">Vantage Premium</a>."
+msgstr "Get additional social and professional network icons and sizes in <a href=\"%s\" target=\"_blank\">Vantage Premium</a>."
+
+#: inc/widgets.php:247
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/widgets.php:246
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/widgets.php:245
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/widgets.php:244
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/widgets.php:211
+msgid "Headline"
+msgstr "Headline"
+
+#: inc/widgets.php:150
+msgid "More Text"
+msgstr "More Text"
+
+#: inc/widgets.php:154
+msgid "More URL"
+msgstr "More URL"
+
+#: inc/widgets.php:160
+msgid "Link title and icon to \"More URL\""
+msgstr "Link title and icon to \"More URL\""
+
+#: inc/widgets.php:167
+msgid "Show Box Container"
+msgstr "Show Box Container"
+
+#: inc/widgets.php:186
+msgid "Vantage Headline"
+msgstr "Vantage Headline"
+
+#: inc/widgets.php:187
+msgid "A lovely big headline."
+msgstr "A lovely big headline."
+
+#: inc/widgets.php:215
+msgid "Sub Headline"
+msgstr "Sub Headline"
+
+#: inc/widgets.php:237
+msgid "Vantage Social Media"
+msgstr "Vantage Social Media"
+
+#: inc/widgets.php:239
+msgid "Add nice little icons that link out to your social media profiles."
+msgstr "Add nice little icons that link out to your social media profiles."
+
+#: inc/widgets.php:145 inc/widgets.php:282
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/widgets.php:144
+msgid "Small"
+msgstr "Small"
+
+#: inc/widgets.php:142 inc/widgets.php:291
+msgid "Icon Size"
+msgstr "Icon Size"
+
+#: inc/widgets.php:138
+msgid "Right"
+msgstr "Right"
+
+#: inc/widgets.php:137
+msgid "Left"
+msgstr "Left"
+
+#: inc/widgets.php:136
+msgid "Bottom"
+msgstr "Bottom"
+
+#: inc/widgets.php:135
+msgid "Top"
+msgstr "Top"
+
+#: inc/widgets.php:111
+msgid "Icon"
+msgstr "Icon"
+
+#: inc/widgets.php:133
+msgid "Icon Position"
+msgstr "Icon Position"
+
+#: inc/widgets.php:124
+msgid "Icon Background Color"
+msgstr "Icon Background Colour"
+
+#: inc/widgets.php:126
+msgid "A hex color"
+msgstr "A hex colour"
+
+#: inc/widgets.php:129
+msgid "Circle Background Image URL"
+msgstr "Circle Background Image URL"
+
+#: inc/widgets.php:107
+msgid "Text"
+msgstr "Text"
+
+#: inc/widgets.php:103 inc/widgets.php:287
+msgid "Title"
+msgstr "Title"
+
+#: inc/template-tags.php:351
+msgid "Posted in %1$s."
+msgstr "Posted in %1$s."
+
+#: inc/template-tags.php:338
+msgid "<strong>Tagged</strong> %2$s."
+msgstr "<strong>Tagged</strong> %2$s."
+
+#: inc/template-tags.php:348
+msgid "Posted in %1$s and tagged %2$s."
+msgstr "Posted in %1$s and tagged %2$s."
+
+#: inc/widgets.php:16
+msgid "Circle Icon"
+msgstr "Circle Icon"
+
+#: inc/widgets.php:17
+msgid "An icon in a circle with some text beneath it"
+msgstr "An icon in a circle with some text beneath it"
+
+#: inc/widgets.php:66
+msgid "More Info"
+msgstr "More Info"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:330 inc/template-tags.php:333
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:316
+msgid "Archives"
+msgstr "Archives"
+
+#: inc/template-tags.php:313
+msgid "%s: %s"
+msgstr "%s: %s"
+
+#: inc/template-tags.php:306
+msgid "Yearly Archives: %s"
+msgstr "Yearly Archives: %s"
+
+#: inc/template-tags.php:302
+msgid "Monthly Archives: %s"
+msgstr "Monthly Archives: %s"
+
+#: inc/template-tags.php:298
+msgid "Daily Archives: %s"
+msgstr "Daily Archives: %s"
+
+#: inc/template-tags.php:293
+msgid "Author Archives: %s"
+msgstr "Author Archives: %s"
+
+#: inc/template-tags.php:288
+msgid "Tag Archives: %s"
+msgstr "Tag Archives: %s"
+
+#: inc/template-tags.php:284
+msgid "Category Archives: %s"
+msgstr "Category Archives: %s"
+
+#: inc/template-tags.php:217
+msgid "%s Logo"
+msgstr "%s Logo"
+
+#: inc/template-tags.php:161
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: inc/template-tags.php:129
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:119
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: inc/template-tags.php:102
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: inc/template-tags.php:102
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:50
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: inc/settings.php:231
+msgid "Author Box"
+msgstr "Author Box"
+
+#: inc/settings.php:191
+msgid "Small Icon"
+msgstr "Small Icon"
+
+#: inc/settings.php:233
+msgid "Show an author box below each blog post."
+msgstr "Show an author box below each blog post."
+
+#: inc/settings.php:244 upgrade/upgrade.php:60
+msgid "Ajax Comments"
+msgstr "Ajax Comments"
+
+#: inc/settings.php:245
+msgid "Keep your conversations flowing with ajax comments."
+msgstr "Keep your conversations flowing with ajax comments."
+
+#: inc/settings.php:248 upgrade/upgrade.php:65
+msgid "Post Sharing"
+msgstr "Post Sharing"
+
+#: inc/settings.php:249
+msgid "Show icons to share your posts on Facebook, Twitter and Google+."
+msgstr "Show icons to share your posts on Facebook, Twitter and Google+."
+
+#: inc/settings.php:253
+msgid "Twitter Handle"
+msgstr "Twitter Handle"
+
+#: inc/settings.php:254
+msgid "This handle will be recommended after a user shares one of your posts."
+msgstr "This handle will be recommended after a user shares one of your posts."
+
+#: inc/settings.php:262
+msgid "Site Information Text"
+msgstr "Site Information Text"
+
+#: inc/settings.php:263
+msgid "Text displayed in your footer. {site-title}, {copyright} and {year} will be replaced with your website title, a copyright symbol and the current year."
+msgstr "Text displayed in your footer. {site-title}, {copyright} and {year} will be replaced with your website title, a copyright symbol and the current year."
+
+#: inc/settings.php:266
+msgid "Mobile Adaptive Images"
+msgstr "Mobile Adaptive Images"
+
+#: inc/settings.php:267
+msgid "Rescale images to the most appropriate size for mobile devices."
+msgstr "Rescale images to the most appropriate size for mobile devices."
+
+#: inc/settings.php:270
+msgid "Enqueue JavaScript in Footer"
+msgstr "Enqueue JavaScript in Footer"
+
+#: inc/settings.php:271
+msgid "Enqueue JavaScript files in the footer, if possible."
+msgstr "Enqueue JavaScript files in the footer, if possible."
+
+#: inc/settings.php:288
+msgid "Call me! Maybe?"
+msgstr "Call me! Maybe?"
+
+#: inc/settings.php:190 inc/widgets.php:146
+msgid "Large"
+msgstr "Large"
+
+#: inc/settings.php:188
+msgid "Featured Image Type"
+msgstr "Featured Image Type"
+
+#: inc/settings.php:198
+msgid "Show the featured image on a post single page."
+msgstr "Show the featured image on a post single page."
+
+#: inc/settings.php:196
+msgid "Featured Image"
+msgstr "Featured Image"
+
+#: inc/settings.php:206
+msgid "Post Date"
+msgstr "Post Date"
+
+#: inc/settings.php:211
+msgid "Post Author"
+msgstr "Post author"
+
+#: inc/settings.php:197 inc/settings.php:202 inc/settings.php:207
+#: inc/settings.php:212 inc/settings.php:217 inc/settings.php:222
+#: inc/settings.php:227 inc/settings.php:232
+msgid "Display"
+msgstr "Display"
+
+#: inc/settings.php:177
+msgid "Post Excerpt"
+msgstr "Post Excerpt"
+
+#: inc/settings.php:176
+msgid "Full Post"
+msgstr "Full Post"
+
+#: inc/settings.php:179
+msgid "Choose how to display posts on post archive when using default blog layout."
+msgstr "Choose how to display posts on post archive when using default blog layout."
+
+#: inc/settings.php:201
+msgid "Post Metadata"
+msgstr "Post Metadata"
+
+#: inc/settings.php:174
+msgid "Post Content"
+msgstr "Post content"
+
+#: inc/settings.php:161
+msgid "Stretch"
+msgstr "Stretch"
+
+#: inc/settings.php:150
+msgid "Home Page Slider"
+msgstr "Home Page Slider"
+
+#: inc/settings.php:129
+msgid "Display next/previous post navigation."
+msgstr "Display next/previous post navigation."
+
+#: inc/settings.php:132
+msgid "Home Page Icon"
+msgstr "Home Page Icon"
+
+#: inc/settings.php:133
+msgid "Display home icon for home page menu links."
+msgstr "Display home icon for home page menu links."
+
+#: inc/settings.php:136
+msgid "Mobile Navigation"
+msgstr "Mobile Navigation"
+
+#: inc/settings.php:137
+msgid "Enables Sticky Menu and Scroll To Top for mobile devices."
+msgstr "Enables Sticky Menu and Scroll To Top for mobile devices."
+
+#: inc/settings.php:141
+msgid "Yoast Breadcrumbs"
+msgstr "Yoast Breadcrumbs"
+
+#: inc/settings.php:142
+msgid "Display Yoast SEO breadcrumbs if you have it installed."
+msgstr "Display Yoast SEO breadcrumbs if you have it installed."
+
+#: inc/settings.php:153
+msgid "This theme supports <a href=\"%s\" target=\"_blank\">Meta Slider</a>. <a href=\"%s\">Install it</a> for free to create beautiful responsive sliders - <a href=\"%s\" target=\"_blank\">More Info</a>"
+msgstr "This theme supports <a href=\"%s\" target=\"_blank\">Meta Slider</a>. <a href=\"%s\">Install it</a> for free to create beautiful responsive sliders - <a href=\"%s\" target=\"_blank\">More Info</a>"
+
+#: inc/settings.php:160
+msgid "Stretch Home Slider"
+msgstr "Stretch Home Slider"
+
+#: inc/settings.php:162
+msgid "Stretch the home page slider to the width of the screen if using the full width layout."
+msgstr "Stretch the home page slider to the width of the screen if using the full width layout."
+
+#: inc/settings.php:169
+msgid "Blog Archive Layout"
+msgstr "Blog Archive Layout"
+
+#: inc/settings.php:128
+msgid "Post Navigation"
+msgstr "Post navigation"
+
+#: inc/settings.php:90
+msgid "Footer Layout"
+msgstr "Footer Layout"
+
+#: inc/settings.php:77
+msgid "Change the width of the bounding box."
+msgstr "Change the width of the bounding box."
+
+#: inc/settings.php:80
+msgid "Masthead Layout"
+msgstr "Masthead Layout"
+
+#: inc/settings.php:82
+msgid "Change which header area layout you're using."
+msgstr "Change which header area layout you're using."
+
+#: inc/settings.php:85
+msgid "Masthead Menu"
+msgstr "Masthead Menu"
+
+#: inc/settings.php:87
+msgid "Choose how the masthead menu is displayed."
+msgstr "Choose how the masthead menu is displayed."
+
+#: inc/settings.php:92
+msgid "Change which footer area layout you're using."
+msgstr "Change which footer area layout you're using."
+
+#: inc/settings.php:103
+msgid "Responsive Menu"
+msgstr "Responsive Menu"
+
+#: inc/settings.php:104
+msgid "Use a special responsive menu for small screen devices."
+msgstr "Use a special responsive menu for small screen devices."
+
+#: inc/settings.php:108
+msgid "Responsive Menu Text"
+msgstr "Responsive Menu Text"
+
+#: inc/settings.php:109
+msgid "The button used for the responsive menu."
+msgstr "The button used for the responsive menu."
+
+#: inc/settings.php:116
+msgid "Sticky Menu"
+msgstr "Sticky Menu"
+
+#: inc/settings.php:117
+msgid "Sticks the menu to the top of the screen when a user scrolls down."
+msgstr "Sticks the menu to the top of the screen when a user scrolls down."
+
+#: inc/settings.php:120
+msgid "Search in Menu"
+msgstr "Search in Menu"
+
+#: inc/settings.php:121
+msgid "Display a search in the main menu."
+msgstr "Display a search in the main menu."
+
+#: inc/settings.php:124
+msgid "Display Scroll To Top"
+msgstr "Display Scroll To Top"
+
+#: inc/settings.php:125
+msgid "Display a scroll-to-top button when a user scrolls down."
+msgstr "Display a scroll-to-top button when a user scrolls down."
+
+#: inc/settings.php:75
+msgid "Full Width"
+msgstr "Full Width"
+
+#: inc/settings.php:74
+msgid "Boxed"
+msgstr "Boxed"
+
+#: inc/settings.php:65
+msgid "Scale your layout for small screen devices."
+msgstr "Scale your layout for small screen devices."
+
+#: inc/settings.php:68
+msgid "Enable FitVids.js"
+msgstr "Enable FitVids.js"
+
+#: inc/settings.php:69
+msgid "Include FitVids.js fluid embedded video layouts."
+msgstr "Include FitVids.js fluid embedded video layouts."
+
+#: inc/settings.php:72
+msgid "Layout Bound"
+msgstr "Layout Bound"
+
+#: inc/settings.php:64
+msgid "Responsive Layout"
+msgstr "Responsive Layout"
+
+#: inc/settings.php:53
+msgid "Text that appears to the right of your logo."
+msgstr "Text that appears to the right of your logo."
+
+#: inc/settings.php:56
+msgid "No Widget Overlay"
+msgstr "No Widget Overlay"
+
+#: inc/settings.php:57
+msgid "If enabled, header widgets won't overlap main logo image."
+msgstr "If enabled, header widgets won't overlap main logo image."
+
+#: inc/settings.php:52
+msgid "Header Text"
+msgstr "Header Text"
+
+#: inc/settings.php:36
+msgid "When using the \"logo in menu\" masthead layout, constrain the logo size to fit the menu height."
+msgstr "When using the \"logo in menu\" masthead layout, constrain the logo size to fit the menu height."
+
+#: inc/settings.php:45 upgrade/upgrade.php:36
+msgid "Retina Logo"
+msgstr "Retina Logo"
+
+#: inc/settings.php:48
+msgid "A double sized version of your logo for retina displays. Must be used in addition to standard logo."
+msgstr "A double sized version of your logo for retina displays. Must be used in addition to standard logo."
+
+#: inc/settings.php:35
+msgid "Yes"
+msgstr "Yes"
+
+#: inc/settings.php:30 inc/settings.php:47
+msgid "Set Logo"
+msgstr "Set Logo"
+
+#: inc/settings.php:31
+msgid "Your own custom logo."
+msgstr "Your own custom logo."
+
+#: inc/settings.php:34
+msgid "Constrain Logo Height"
+msgstr "Constrain Logo Height"
+
+#: inc/settings.php:29 inc/settings.php:46
+msgid "Choose Image"
+msgstr "Choose Image"
+
+#: inc/settings.php:28
+msgid "Logo Image"
+msgstr "Logo Image"
+
+#: inc/settings.php:22
+msgid "General"
+msgstr "General"
+
+#: inc/settings.php:21
+msgid "Social"
+msgstr "Social"
+
+#: inc/settings.php:20
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/settings.php:19
+msgid "Navigation"
+msgstr "Navigation"
+
+#: inc/settings.php:18
+msgid "Home"
+msgstr "Home"
+
+#: inc/settings.php:17
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/settings.php:16
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/panels.php:213
+msgid "Background Image URL"
+msgstr "Background Image URL"
+
+#: inc/panels.php:220
+msgid "Repeat Background Image"
+msgstr "Repeat Background Image"
+
+#: inc/panels.php:227
+msgid "No Bottom Margin"
+msgstr "No Bottom Margin"
+
+#: inc/panels.php:294
+msgid "Vantage Widgets"
+msgstr "Vantage Widgets"
+
+#: inc/panels.php:206
+msgid "Background Color"
+msgstr "Background Colour"
+
+#: inc/panels.php:199
+msgid "Bottom Border Color"
+msgstr "Bottom Border Color"
+
+#: inc/panels.php:107
+msgid "There are a lot of widgets bundled with Page Builder. You can use them to bring your pages to life."
+msgstr "There are a lot of widgets bundled with Page Builder. You can use them to bring your pages to life."
+
+#: inc/panels.php:184
+msgid "Wide Grey"
+msgstr "Wide Grey"
+
+#: inc/panels.php:192
+msgid "Top Border Color"
+msgstr "Top Border Colour"
+
+#: inc/panels-lite/tpl/install.php:7
+msgid "SiteOrigin Page Builder"
+msgstr "SiteOrigin Page Builder"
+
+#: inc/panels.php:88
+msgid "Latest Posts"
+msgstr "Latest Posts"
+
+#: inc/panels-lite/tpl/admin-home-page.php:14
+msgid "OFF"
+msgstr "OFF"
+
+#: inc/panels-lite/tpl/install.php:19
+msgid "We've created an intuitive interface that looks just like WordPress itself. It's easy to learn, so you'll be building beautiful, responsive content in no time."
+msgstr "We've created an intuitive interface that looks just like WordPress itself. It's easy to learn, so you'll be building beautiful, responsive content in no time."
+
+#: inc/panels-lite/tpl/admin-home-page.php:20
+msgid "This theme is compatible with SiteOrigin's powerful drag and drop page builder."
+msgstr "This theme is compatible with SiteOrigin's powerful drag and drop page builder."
+
+#: inc/panels-lite/tpl/admin-home-page.php:21
+msgid "It allows you to build responsive columnized pages, populated with the widgets you know and love."
+msgstr "It allows you to build responsive columnized pages, populated with the widgets you know and love."
+
+#: inc/panels-lite/tpl/admin-home-page.php:22
+msgid "It's a <strong>free plugin</strong> that works well with most WordPress themes."
+msgstr "It's a <strong>free plugin</strong> that works well with most WordPress themes."
+
+#: inc/panels-lite/tpl/admin-home-page.php:23
+msgid "If you don't want to use it, click the toggle switch above to disable the default home page."
+msgstr "If you don't want to use it, click the toggle switch above to disable the default home page."
+
+#: inc/panels-lite/tpl/admin-home-page.php:27 tour/tour.php:50 tour/tour.php:54
+msgid "Install Page Builder"
+msgstr "Install Page Builder"
+
+#: inc/panels-lite/tpl/install.php:8
+msgid "The Free Responsive WordPress Page Builder"
+msgstr "The Free Responsive WordPress Page Builder"
+
+#: inc/panels-lite/tpl/install.php:17
+msgid "Page Builder by SiteOrigin is the most popular page creation plugin for WordPress. It makes it easy to create responsive column based content, using the widgets you know and love. Your content will accurately adapt to all mobile devices, ensuring your site is mobile-ready."
+msgstr "Page Builder by SiteOrigin is the most popular page creation plugin for WordPress. It makes it easy to create responsive column based content, using the widgets you know and love. Your content will accurately adapt to all mobile devices, ensuring your site is mobile-ready."
+
+#: inc/panels-lite/tpl/install.php:22
+msgid "It's a free plugin that will instantly enhance your WordPress experience."
+msgstr "It's a free plugin that will instantly enhance your WordPress experience."
+
+#: inc/panels-lite/tpl/install.php:23
+msgid "<a href='#install'>Install Page Builder</a> now to get started."
+msgstr "<a href='#install'>Install Page Builder</a> now to get started."
+
+#: inc/panels.php:17
+msgid "Default Home"
+msgstr "Default Home"
+
+#: inc/panels.php:22
+msgid "Editable Home Page"
+msgstr "Editable Home Page"
+
+#: inc/panels.php:23
+msgid "You can edit this home page using our free, drag and drop Page Builder, or simply disable it to fall back to a standard blog. It's a powerful page building experience."
+msgstr "You can edit this home page using our free, drag and drop Page Builder, or simply disable it to fall back to a standard blog. It's a powerful page building experience."
+
+#: inc/panels.php:27
+msgid "Start Editing"
+msgstr "Start Editing"
+
+#: inc/panels.php:40
+msgid "Loads of Icons"
+msgstr "Loads of Icons"
+
+#: inc/panels.php:41
+msgid "This widget uses FontAwesome - giving you hundreds of icons. Or you could disable the icon and use your own image image. Great for testimonials."
+msgstr "This widget uses FontAwesome - giving you hundreds of icons. Or you could disable the icon and use your own image image. Great for testimonials."
+
+#: inc/panels.php:45
+msgid "Example Button"
+msgstr "Example Button"
+
+#: inc/panels.php:58
+msgid "Saves You Time"
+msgstr "Saves You Time"
+
+#: inc/panels.php:59
+msgid "Building your pages using a drag and drop page builder is a great experience that will save you time. Time is valuable. Don't waste it."
+msgstr "Building your pages using a drag and drop page builder is a great experience that will save you time. Time is valuable. Don't waste it."
+
+#: inc/panels.php:63
+msgid "Test Button"
+msgstr "Test Button"
+
+#: inc/panels.php:76
+msgid "This Is A Headline Widget"
+msgstr "This Is A Headline Widget"
+
+#: inc/panels.php:77
+msgid "You can customize it and put it where ever you want"
+msgstr "You can customize it and put it where ever you want"
+
+#: inc/panels-lite/tpl/admin-home-page.php:13
+msgid "ON"
+msgstr "On"
+
+#: inc/panels-lite/tpl/admin-home-page.php:10
+msgid "Custom Home Page"
+msgstr "Custom Home Page"
+
+#: inc/panels-lite/panels-lite.php:79
+msgid "Refresh this page after you've installed Page Builder."
+msgstr "Refresh this page after you've installed Page Builder."
+
+#: inc/panels-lite/panels-lite.php:462
+msgid "<a href=\"%s\">Install Page Builder</a> to <a href=\"%s\">edit</a> this default home page."
+msgstr "<a href=\"%s\">Install Page Builder</a> to <a href=\"%s\">edit</a> this default home page."
+
+#: inc/panels-lite/panels-lite.php:468
+msgid "<a href='%s'>Disable this page</a> if you'd prefer to have a standard blog home."
+msgstr "<a href='%s'>Disable this page</a> if you'd prefer to have a standard blog home."
+
+#: inc/panels-lite/panels-lite.php:77
+msgid "Cancel"
+msgstr "Cancel"
+
+#: inc/panels-lite/panels-lite.php:76
+msgid "Install"
+msgstr "Install"
+
+#: inc/panels-lite/panels-lite.php:16
+msgid "Home Page"
+msgstr "Home Page"
+
+#: inc/panels-lite/inc/plugin-activation.php:10
+#: inc/panels-lite/inc/plugin-activation.php:11
+msgid "Install Page Builder Plugin"
+msgstr "Install Page Builder Plugin"
+
+#: inc/panels-lite/panels-lite.php:15
+msgid "Custom Home Page Builder"
+msgstr "Custom Home Page Builder"
+
+#: inc/panels-lite/inc/plugin-activation.php:110
+#: inc/panels-lite/panels-lite.php:28 inc/panels-lite/panels-lite.php:74
+#: tour/tour.php:55
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#: inc/menu.php:40
+msgid "Menu Icon"
+msgstr "Menu Icon"
+
+#: inc/metaslider.php:11
+msgid "Vantage (Flex)"
+msgstr "Vantage (Flex)"
+
+#: inc/metaslider.php:71
+msgid "Page Meta Slider"
+msgstr "Page Meta Slider"
+
+#: inc/metaslider.php:92
+msgid "Display Page Meta Slider"
+msgstr "Display Page Meta Slider"
+
+#: inc/metaslider.php:102
+msgid "Stretch Page Meta Slider"
+msgstr "Stretch Page Meta Slider"
+
+#: inc/gallery.php:121
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/extras.php:105
+msgid "Page %s"
+msgstr "Page %s"
+
+#: image.php:30
+msgid "Next &rarr;"
+msgstr "Next &rarr;"
+
+#: image.php:29
+msgid "&larr; Previous"
+msgstr "&larr; Previous"
+
+#: functions.php:326
+msgid "Back To Top"
+msgstr "Back To Top"
+
+#: functions.php:236
+msgid "Header"
+msgstr "Header"
+
+#: functions.php:227
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:207
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:77
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: extras/settings/settings.php:729
+msgid "Read %s's <a href='%s' target='_blank'>theme documentation</a> for help with these settings."
+msgstr "Read %s's <a href='%s' target='_blank'>theme documentation</a> for help with these settings."
+
+#: extras/settings/settings.php:736
+msgid "Settings Help"
+msgstr "Settings Help"
+
+#: extras/settings/settings.php:786
+msgid "Set Media File"
+msgstr "Set Media File"
+
+#: extras/settings/settings.php:837
+msgid "Meta Slider: "
+msgstr "Meta Slider: "
+
+#: extras/settings/settings.php:847
+msgid "Revolution Slider: "
+msgstr "Revolution Slider: "
+
+#: extras/settings/settings.php:857
+msgid "LayerSlider: "
+msgstr "LayerSlider: "
+
+#: extras/update/update.php:53
+msgid "Enter the order number we sent you by email"
+msgstr "Enter the order number we sent you by email"
+
+#: fontawesome/icon-sections.php:4
+msgid "Web Application Icons"
+msgstr "Web Application Icons"
+
+#: fontawesome/icon-sections.php:5
+msgid "File Type Icons"
+msgstr "File Type Icons"
+
+#: fontawesome/icon-sections.php:6
+msgid "Spinner Icons"
+msgstr "Spinner Icons"
+
+#: fontawesome/icon-sections.php:7
+msgid "Form Control Icons"
+msgstr "Form Control Icons"
+
+#: fontawesome/icon-sections.php:8
+msgid "Payment Icons"
+msgstr "Payment Icons"
+
+#: fontawesome/icon-sections.php:9
+msgid "Chart Icons"
+msgstr "Chart Icons"
+
+#: fontawesome/icon-sections.php:10
+msgid "Currency Icons"
+msgstr "Currency Icons"
+
+#: fontawesome/icon-sections.php:11
+msgid "Text Editor Icons"
+msgstr "Text Editor Icons"
+
+#: fontawesome/icon-sections.php:12
+msgid "Directional Icons"
+msgstr "Directional Icons"
+
+#: fontawesome/icon-sections.php:13
+msgid "Video Player Icons"
+msgstr "Video Player Icons"
+
+#: fontawesome/icon-sections.php:14
+msgid "Brand Icons"
+msgstr "Brand Icons"
+
+#: fontawesome/icon-sections.php:15
+msgid "Medical Icons"
+msgstr "Medical Icons"
+
+#: extras/settings/settings.php:710
+msgid "Settings saved."
+msgstr "Settings Saved."
+
+#: extras/settings/settings.php:572
+msgid "Unknown Field Type"
+msgstr "Unknown Field Type"
+
+#: extras/settings/settings.php:564 inc/template-tags.php:124
+msgid "Edit"
+msgstr "Edit"
+
+#: extras/settings/settings.php:496
+msgid "Select Images"
+msgstr "Select Images"
+
+#: extras/settings/settings.php:535
+msgid "This field requires the %s plugin. "
+msgstr "This field requires the %s plugin. "
+
+#: extras/settings/settings.php:538
+msgid "<a href=\"%s\" target=\"_blank\">Install %s</a> now. "
+msgstr "<a href=\"%s\" target=\"_blank\">Install %s</a> now. "
+
+#: extras/settings/settings.php:466
+msgid "Remove"
+msgstr "Remove"
+
+#: extras/settings/settings.php:433
+msgid "You need to <a href=\"%s\">upgrade</a> to WordPress 3.5 to use media fields"
+msgstr "You need to <a href=\"%s\">upgrade</a> to WordPress 3.5 to use media fields"
+
+#: extras/settings/settings.php:451
+msgid "Choose Media"
+msgstr "Choose Media"
+
+#: extras/settings/settings.php:452
+msgid "Set Media"
+msgstr "Set Media"
+
+#: extras/settings/settings.php:376
+msgid "Enabled"
+msgstr "Enabled"
+
+#: extras/settings/settings.php:77
+msgid "Theme Settings"
+msgstr "Theme Settings"
+
+#: extras/settings/settings.php:107 extras/settings/settings.php:154
+msgid "Theme Tour"
+msgstr "Theme Tour"
+
+#: extras/settings/settings.php:121
+msgid "Please update to the latest version of WordPress to use theme settings."
+msgstr "Please update to the latest version of WordPress to use theme settings."
+
+#: extras/settings/page.php:99
+msgid "Close"
+msgstr "Close"
+
+#: extras/settings/page.php:91
+msgid "Step %s of %s"
+msgstr "Step %s of %s"
+
+#: extras/settings/page.php:76
+msgid "Continue"
+msgstr "Continue"
+
+#: extras/settings/page.php:19
+msgid "Theme Support Forum"
+msgstr "Theme Support Forum"
+
+#: extras/settings/page.php:34
+msgid "%s Theme Settings Preview"
+msgstr "%s Theme Settings Preview"
+
+#: extras/settings/page.php:17 extras/settings/page.php:74
+msgid "Preview"
+msgstr "Preview"
+
+#: extras/settings/page.php:16 extras/settings/page.php:98
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: extras/premium/tpl/upgrade-page.php:123
+msgid "Sign up to our newsletter and download %s for free."
+msgstr "Sign up to our newsletter and download %s for free."
+
+#: extras/premium/tpl/upgrade-page.php:132
+msgid "Your contribution will help fund new features in %s."
+msgstr "Your contribution will help fund new features in %s."
+
+#: extras/premium/tpl/upgrade-page.php:133
+msgid "Find out more on our <a href=\"%s\" target=\"_blank\">roadmap</a>."
+msgstr "Find out more on our <a href=\"%s\" target=\"_blank\">roadmap</a>."
+
+#: extras/premium/tpl/upgrade-page.php:138
+msgid "Our User Feedback"
+msgstr "Our User Feedback"
+
+#: extras/settings/message.php:3
+msgid "Hi! I'm Greg from SiteOrigin. I hope %s is working well for you! Sign up to <a href='%s' target='_blank'>our newsletter</a> if you'd like more free themes and goodies."
+msgstr "Hi! I'm Greg from SiteOrigin. I hope %s is working well for you! Sign up to <a href='%s' target='_blank'>our newsletter</a> if you'd like more free themes and goodies."
+
+#: extras/settings/page.php:6 extras/settings/settings.php:76
+msgid "%s Theme Settings"
+msgstr "%s Theme Settings"
+
+#: extras/premium/tpl/upgrade-page.php:118
+msgid "Download"
+msgstr "Download"
+
+#: extras/premium/tpl/upgrade-page.php:103
+msgid "Please enable Javascript to change pricing"
+msgstr "Please enable Javascript to change pricing"
+
+#: extras/premium/tpl/upgrade-page.php:107
+msgid "We offer a 60 day full refund if you're not happy with your purchase"
+msgstr "We offer a 60 day full refund if you're not happy with your purchase"
+
+#: extras/premium/tpl/upgrade-page.php:100
+msgid "Custom"
+msgstr "Custom"
+
+#: extras/premium/tpl/upgrade-page.php:37
+msgid "Premium Upgrade"
+msgstr "Premium Upgrade"
+
+#: extras/premium/tpl/upgrade-page.php:26 extras/update/update.php:52
+msgid "Order Number"
+msgstr "Order Number"
+
+#: extras/premium/premium.php:289 upgrade/upgrade.php:14
+msgid "Premium Support"
+msgstr "Premium Support"
+
+#: extras/premium/tpl/upgrade-page.php:81
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: extras/premium/premium.php:93
+msgid "We couldn't validate your order number."
+msgstr "We couldn't validate your order number."
+
+#: extras/premium/premium.php:94
+msgid "There might be a problem with our validation server."
+msgstr "There might be a problem with our validation server."
+
+#: extras/premium/premium.php:141
+msgid "Get Additional Templates"
+msgstr "Get Additional Templates"
+
+#: extras/premium/premium.php:143
+msgid "%s Premium includes additional templates"
+msgstr "%s Premium includes additional templates"
+
+#: extras/premium/premium.php:179 extras/settings/settings.php:479
+msgid "Only available in <strong>%s</strong> - <strong class=\"upgrade\">Upgrade Now</strong>"
+msgstr "Only available in <strong>%s</strong> - <strong class=\"upgrade\">Upgrade Now</strong>"
+
+#: extras/premium/premium.php:268
+msgid "Get Additional Customizations"
+msgstr "Get Additional Customizations"
+
+#: extras/premium/premium.php:283
+msgid "A Copy of %s Premium"
+msgstr "A Copy of %s Premium"
+
+#: extras/premium/premium.php:284
+msgid "You get a copy of %s, delivered instantly to your PayPal email address. This includes the same basic support we offer users of our free themes."
+msgstr "You get a copy of %s, delivered instantly to your PayPal email address. This includes the same basic support we offer users of our free themes."
+
+#: extras/premium/premium.php:290
+msgid "This includes Premium email support from our support team for a single site. We'll help you as quickly as possible with all your setup and configuration questions."
+msgstr "This includes Premium email support from our support team for a single site. We'll help you as quickly as possible with all your setup and configuration questions."
+
+#: extras/premium/premium.php:295
+msgid "Advanced Premium Support"
+msgstr "Advanced Premium Support"
+
+#: extras/premium/premium.php:296
+msgid "We'll go the extra mile and help you with minor CSS customizations, plugin conflicts and anything else that falls outside standard %s support."
+msgstr "We'll go the extra mile and help you with minor CSS customizations, plugin conflicts and anything else that falls outside standard %s support."
+
+#: extras/premium/premium.php:301
+msgid "A Special Thank You"
+msgstr "A Special Thank You"
+
+#: extras/premium/premium.php:302
+msgid "Our highest level of support. If you need it, you'll get support directly from the developer of %s. We'll also include your name on our contributors list."
+msgstr "Our highest level of support. If you need it, you'll get support directly from the developer of %s. We'll also include your name on our contributors list."
+
+#: extras/premium/tpl/upgrade-page.php:15
+msgid "After you pay for %s, we'll email you an order number to your <strong>PayPal email address</strong>. "
+msgstr "After you pay for %s, we'll email you an order number to your <strong>PayPal email address</strong>. "
+
+#: extras/premium/tpl/upgrade-page.php:19
+msgid "Use <a href='%s' target='_blank'>this form</a> if you don't receive your order number in the next 15 minutes. "
+msgstr "Use <a href='%s' target='_blank'>this form</a> if you don't receive your order number in the next 15 minutes. "
+
+#: extras/premium/tpl/upgrade-page.php:22
+msgid "To be sure, check your spam folder."
+msgstr "To be sure, check your spam folder."
+
+#: extras/premium/tpl/upgrade-page.php:28
+msgid "Enable Upgrade"
+msgstr "Enable Upgrade"
+
+#: extras/premium/tpl/upgrade-page.php:32
+msgid "Already Paid?"
+msgstr "Already Paid?"
+
+#: extras/premium/tpl/upgrade-page.php:41
+msgid "The premium version of this theme is no longer available. If you need any help, please contact <a href='http://siteorigin.com/thread/'>SiteOrigin support</a>."
+msgstr "The premium version of this theme is no longer available. If you need any help, please contact <a href='http://siteorigin.com/thread/'>SiteOrigin support</a>."
+
+#: extras/premium/tpl/upgrade-page.php:87
+msgid "Although we appreciate and support all our users, we only offer prioritized support for orders of <strong>$15</strong> or more."
+msgstr "Although we appreciate and support all our users, we only offer prioritized support for orders of <strong>$15</strong> or more."
+
+#: extras/premium/tpl/upgrade-page.php:91
+msgid "You choose the price, so you can pay what %s is worth to you."
+msgstr "You choose the price, so you can pay what %s is worth to you."
+
+#: extras/premium/tpl/upgrade-page.php:95
+msgid "Building your site on a budget"
+msgstr "Building your site on a budget"
+
+#: extras/premium/tpl/upgrade-page.php:96
+msgid "A fair price for a powerful theme"
+msgstr "A fair price for a powerful theme"
+
+#: extras/premium/tpl/upgrade-page.php:97
+msgid "Our sincere thanks"
+msgstr "Our sincere thanks"
+
+#: extras/premium/tpl/upgrade-page.php:98
+msgid "We'll go that extra mile for you"
+msgstr "We'll go that extra mile for you"
+
+#: extras/premium/tpl/upgrade-page.php:99
+msgid "A huge contribution to its development"
+msgstr "A huge contribution to its development"
+
+#: extras/premium/premium.php:88
+msgid "Update Theme"
+msgstr "Update Theme"
+
+#: extras/plugin-activation/plugin-activation.php:74
+#: inc/panels-lite/inc/plugin-activation.php:77
+msgid "Installing %s"
+msgstr "Installing %s"
+
+#: extras/premium/premium.php:12 extras/premium/premium.php:179
+#: extras/premium/premium.php:279 extras/premium/tpl/upgrade-page.php:16
+#: extras/premium/tpl/upgrade-page.php:123 extras/settings/settings.php:151
+#: extras/settings/settings.php:479 extras/update/update.php:51
+msgid "Premium"
+msgstr "Premium"
+
+#: extras/metaslider/metaslider.php:71
+msgid "Demo Slider"
+msgstr "Demo Slider"
+
+#: extras/metaslider/metaslider.php:81
+msgid "Slider: "
+msgstr "Slider: "
+
+#: extras/plugin-activation/plugin-activation.php:7
+#: extras/plugin-activation/plugin-activation.php:8
+msgid "Install Theme Plugin"
+msgstr "Install Theme Plugin"
+
+#: extras/premium/premium.php:64
+msgid "Your Order Number Is [%s]"
+msgstr "Your Order Number Is [%s]"
+
+#: extras/premium/premium.php:68
+msgid "There was a problem contacting our validation servers."
+msgstr "There was a problem contacting our validation servers."
+
+#: extras/premium/premium.php:69 extras/premium/premium.php:95
+msgid "Please try again later, or upgrade manually using the ZIP file we sent you."
+msgstr "Please try again later, or upgrade manually using the ZIP file we sent you."
+
+#: extras/premium/premium.php:73
+msgid "We've validated your order number."
+msgstr "We've validated your order number."
+
+#: extras/premium/premium.php:76
+msgid "You can update now, or later on your <a href=\"%s\">Themes page</a>."
+msgstr "You can update now, or later on your <a href=\"%s\">Themes page</a>."
+
+#: extras/premium/premium.php:80
+msgid "This update will add all the premium features."
+msgstr "This update will add all the premium features."
+
+#: extras/premium/premium.php:85
+msgid "Updating this theme will lose any code customizations (CSS, PHP, Javascript, etc) you have made to the free version. You will not lose your content, images or settings. 'Cancel' to stop, 'OK' to update."
+msgstr "Updating this theme will lose any code customizations (CSS, PHP, Javascript, etc) you have made to the free version. You will not lose your content, images or settings. 'Cancel' to stop, 'OK' to update."
+
+#: extras/metaslider/metaslider.php:69 extras/settings/settings.php:508
+#: inc/menu.php:61 inc/widgets.php:113
+msgid "None"
+msgstr "None"
+
+#: extras/metaslider/metaslider.php:35
+msgid "Prebuilt Layouts"
+msgstr "Prebuilt Layouts"
+
+#: extras/metaslider/layouts/basic-left.php:6
+msgid "Basic Left"
+msgstr "Basic Left"
+
+#: extras/metaslider/layouts/basic-left.php:9
+#: extras/metaslider/layouts/basic-right.php:8
+#: extras/metaslider/layouts/big-headline.php:8
+msgid "This Is The First Line"
+msgstr "This Is The First Line"
+
+#: extras/metaslider/layouts/basic-left.php:9
+#: extras/metaslider/layouts/basic-right.php:8
+#: extras/metaslider/layouts/big-headline.php:8
+msgid "This is The Second"
+msgstr "This is The Second"
+
+#: extras/metaslider/layouts/basic-left.php:16
+#: extras/metaslider/layouts/basic-right.php:15
+#: extras/metaslider/layouts/big-headline.php:15
+msgid "An Action Button"
+msgstr "An Action Button"
+
+#: extras/metaslider/layouts/basic-right.php:5
+msgid "Basic Right"
+msgstr "Basic Right"
+
+#: extras/metaslider/layouts/big-headline.php:5
+msgid "Big Headline"
+msgstr "Big Headline"
+
+#: extras/metaslider/metaslider.php:13
+msgid "Prebuilt Slide Layouts"
+msgstr "Prebuilt Slide Layouts"
+
+#: extras/metaslider/metaslider.php:14
+msgid "Are you sure you want to replace your current slide content with this prebuilt layout?"
+msgstr "Are you sure you want to replace your current slide content with this prebuilt layout?"
+
+#: content-single.php:23 content.php:30
+msgid "Permalink to %s"
+msgstr "Permalink to %s"
+
+#: content-page.php:28 content-single.php:35 content.php:47
+#: templates/template-full-notitle.php:27
+msgid "Pages:"
+msgstr "Pages:"
+
+#: templates/template-full-notitle.php:26
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:36 comments.php:48
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:35 comments.php:47
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:34 comments.php:46
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: 404.php:40
+msgid "Try looking in the monthly archives."
+msgstr "Try looking in the monthly archives."
+
+#: comments.php:26
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "One Comment"
+msgstr[1] "%1$s Comments"
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:22
+msgid "That page can't be found."
+msgstr "That page can't be found."
+
+#. Author of the plugin/theme
+msgid "SiteOrigin"
+msgstr "SiteOrigin"
+
+#. Theme URI of the plugin/theme
+msgid "http://siteorigin.com/theme/vantage/"
+msgstr "http://siteorigin.com/theme/vantage/"
+
+#. Author URI of the plugin/theme
+msgid "http://siteorigin.com/"
+msgstr "http://siteorigin.com/"
