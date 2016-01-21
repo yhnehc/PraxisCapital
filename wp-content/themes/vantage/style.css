@@ -686,6 +686,7 @@ body.sidebar-position-none #secondary {
 #main {
   background: #fcfcfc;
   padding: 35px;
+    margin-top:53px;
 }
 #main-slider {
   line-height: 0;
