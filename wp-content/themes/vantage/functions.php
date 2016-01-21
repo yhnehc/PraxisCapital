@@ -75,6 +75,7 @@ function vantage_setup() {
 	// This theme uses wp_nav_menu() in one location.
 	register_nav_menus( array(
 		'primary' => __( 'Primary Menu', 'vantage' ),
+		'sub' => __('Sub Menu')
 	) );
 
 	// Enable support for Post Formats
@@ -314,38 +315,11 @@ add_action('wp_head', 'vantage_wp_head');
  * Display some text in the text area.
  */
 function vantage_top_text_area(){
-	register_nav_menu( "menu", "menu2" );
-	$menus = get_registered_nav_menus();
 
-	foreach ( $menus as $location => $description ) {
-
-		echo $location . ': ' . $description . '<br />';
-	}
-
-
-	wp_page_menu();
-
-	//echo wp_kses_post( siteorigin_setting('logo_header_text') );
-	if(siteorigin_setting('logo_menu_name_1') || siteorigin_setting('logo_menu_name_2')
-		|| siteorigin_setting('logo_menu_name_3')) {
-		?>
-		<div>
-			<ul>
-				<?php
-				if(siteorigin_setting('logo_menu_name_1')){
-					echo "<li>".wp_kses_post(siteorigin_setting('logo_menu_name_1'))."</li>";
-				}
-				if(siteorigin_setting('logo_menu_name_2')){
-					echo "<li>".wp_kses_post(siteorigin_setting('logo_menu_name_2'))."</li>";
-				}
-				if(siteorigin_setting('logo_menu_name_3')){
-					echo "<li>".wp_kses_post(siteorigin_setting('logo_menu_name_3'))."</li>";
-				}
-				?>
-			</ul>
-		</div>
-		<?php
-	}
+	wp_nav_menu(array('theme_location' => 'sub', 'items_wrap' => '<ul id="%1$s" class="%2$s">%3$s</ul>',
+		 'container' => 'div',
+		'container_class' => 'sub_menu',));
+	//wp_page_menu(['items_wrap'      => '<ul id="%1$s" class="%2$s">%3$s</ul>',]);
 }
 add_action('vantage_support_text', 'vantage_top_text_area');
 

@@ -58,6 +58,14 @@ function vantage_theme_settings(){
 	siteorigin_settings_add_field('logo', 'header_text', 'text', __('Header Text', 'vantage'), array(
 		'description' => __('Text that appears to the right of your logo.', 'vantage')
 	) );
+//
+//	siteorigin_settings_add_field('logo', 'sub_menu', 'select', __('Sub Menu', 'vantage'), array(
+//		'options' => array(
+//			'boxed' => __('Boxed', 'vantage'),
+//			'full' => __('Full Width', 'vantage'),
+//		),
+//		'description' => __('Change the width of the bounding box.', 'vantage')
+//	) );
 
 	/**
 	 * Layout Settings

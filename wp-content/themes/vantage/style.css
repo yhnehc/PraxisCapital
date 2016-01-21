@@ -485,6 +485,10 @@ body {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   zoom: 1;
+    max-width: 1080px;
+    width: 100%;
+    margin:auto;
+    position:relative;
 }
 #masthead:before {
   content: '';
@@ -837,9 +841,11 @@ body.responsive.layout-full #page-wrapper .full-container {
 ----------------------------------------------- */
 .main-navigation {
   margin: 0 -35px;
-  background: #343538;
-  position: relative;
+    width:100%;
+  /*background: #343538;*/
+  position: absolute;
   font-size: 0;
+    z-index: 1;
   /* Font awesome icons */
   /* General menu link styling */
   /* For when the menu becomes a sticky menu */
@@ -1039,6 +1045,11 @@ body.so-vantage-mobile-device .main-navigation li:hover > ul {
   outline: none;
   padding: 0 15px;
 }
+
+.menu{
+    background: #343538;
+}
+
 /* =Archives
 ----------------------------------------------- */
 article.sticky {
@@ -1937,7 +1948,8 @@ article.page.post-with-thumbnail-icon .entry-main {
 }
 body.layout-full {
   /* Use the same color as the footer */
-  background-color: #2f3033;
+  /*background-color: #2f3033;*/
+    background-color: #fcfcfc;
 }
 .layout-full #colophon {
   margin-bottom: 0;
@@ -3724,4 +3736,19 @@ span.jwcontrols span button {
 .main-slider-class{
     max-width: 1400px;
     margin: auto;
+}
+
+
+.sub_menu ul{
+    color: #F90;
+    font-size: 120% !important;
+}
+
+.sub_menu li{
+    list-style: none;
+    padding: 0;
+    background: none;
+    float: left;
+    margin: 0 20px 0 0 !important;
+    color: #6d6e71 !important;
 }
